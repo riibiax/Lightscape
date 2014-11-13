@@ -1,0 +1,7 @@
+INFO:root:lissajous: Lissajous figures
+ERROR:root:Exception: Traceback (most recent call last):
+ERROR:root:Exception:   File "art.py", line 54, in <module>
+    main()
+ERROR:root:Exception:   File "art.py", line 51, in main
+    sleep(art.interval()/1000.0)
+ERROR:root:Exception: KeyboardInterrupt
